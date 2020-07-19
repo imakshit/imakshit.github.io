@@ -51,10 +51,11 @@
 </p>
 
 <p align="center">
-<a href=https://leetcode.com/akshit_gupta98/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg alt="sachuverma" height="40" width="40" /></a>
-<a href=https://facebook.com/akshitgupta1998 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg alt="sachuverma_" height="40" width="40" /></a>
-<a href=https://www.linkedin.com/in/gupta-akshit/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="sachuverma" height="40" width="40" /></a>
-<a href=https://instagram.com/akshit_gupta98 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="sachuverma_" height="40" width="40" /></a>
+<a href=https://leetcode.com/akshit_gupta98/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg alt="akshit_gupta98" height="40" width="40" /></a>
+<a href=https://facebook.com/akshitgupta1998 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg alt="akshitgupta1998" height="40" width="40" /></a>
+<a href=https://www.linkedin.com/in/gupta-akshit/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="gupta-akshit" height="40" width="40" /></a>
+<a href=https://instagram.com/akshit_gupta98 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="akshit_gupta98" height="40" width="40" /></a>
+<a href=https://about.me/akshit_gupta target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/about-dot-me.svg alt="akshit_gupta" height="40" width="40" /></a>
 </p>
 
 ⭐️ From [Akshit Gupta](https://github.com/imakshit) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
