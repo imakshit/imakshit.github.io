@@ -13,8 +13,8 @@
 <h3 align="center">Bachelor of Technology, Information and Technology(IT) (2020 Graduate)</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=imakshit alt=imakshit/></p>
 
-- 🌱 I’m currently learning ... **Competitive Programming and object detection**
-- 💬 Ask me about ... **Python, Java, Machine Learning, Deep Learning**
+- 🌱 I’m currently learning ... **Competitive Programming and exploring the field of Deep Learning**
+- 💬 Ask me about ... **Data Structures and algorithms, Python, Java, Machine Learning, Deep Learning**
 - 😄 Employement ... **Open for opportunities**
 - 🔭 For cool ML/DL projects **Visit my Github @imakshit**
 - ⚡ Fun fact ... **Self-taught guitarist and Astrogeek!**
